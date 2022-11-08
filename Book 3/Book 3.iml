@@ -11,7 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Listing 7-1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Listing 7-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Listing 7-3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Listing 8-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listing 8-1" isTestSource="false" packagePrefix="com.lowewriter.payroll" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
